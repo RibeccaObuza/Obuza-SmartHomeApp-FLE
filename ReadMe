@@ -1,0 +1,21 @@
+# Smart Home Dashboard for CS 15 1st lab exam
+
+## 🛠️ Technologies Used
+
+* **React Native:** Core framework for building the UI.
+* **Expo:** Development platform and compiler.
+* **React Navigation:** Handling transitions between the Home, Devices, and Device Details screens.
+* **JavaScript/JSX:** Application logic and component structure.
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+* [Node.js](https://nodejs.org/) (which includes `npm`)
+* Git
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+   cd YourRepoName
